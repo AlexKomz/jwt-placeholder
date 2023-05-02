@@ -1,0 +1,18 @@
+{
+  "name": "jwt-placeholer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {}
+}
